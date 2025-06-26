@@ -36,8 +36,11 @@
   <a href="https://www.linkedin.com/in/augustin-verissimo-a48b95231/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.augustin-verissimo.fr/" target="_blank">
-    <img src="https://www.augustin-verissimo.fr/asset/icon/terminal.svg" height="25" alt="portfolio logo" />
+  <a href="https://www.augustin-verissimo.fr/">
+    <img src="https://img.shields.io/badge/Portfolio-en%20ligne-success?style=for-the-badge&logo=vercel&logoColor=white" height="25"/>
+  </a>
+  <a href="mailto:augustin.verissimo@mail.com">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
